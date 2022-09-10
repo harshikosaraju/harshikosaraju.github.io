@@ -1,0 +1,27 @@
+body{
+    background-color: #809A6F;
+    font-family: 'Courier New', monospace;
+}
+h1{
+    margin: 20px;
+    color: #1C3B29;
+}
+h2{
+    font-size: 25px;
+    padding-bottom: 0px;
+}
+h3{
+    font-size: 20px;
+    padding-top: 0px;
+}
+aside {
+    width:25%;
+    float:left;
+}
+#course {
+	background: #D5D8B5;
+	border-radius: 25px;
+    padding: 10px;
+    margin: 20px;
+    color: #1C3B29;
+}
