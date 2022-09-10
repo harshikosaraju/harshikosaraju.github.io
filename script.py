@@ -70,7 +70,7 @@ courses = zip(numbers, names, descrips, units)
 
 css_file = "format.css"
 output.write('<!DOCTYPE html>\n<html>\n<head>\n\t<link rel="stylesheet" href="format.css">\n')
-output.write('\t<title>Computer Science and Engineering Courses</title>\n')
+output.write('\t<title>Harshi Kosaraju</title>\n')
 output.write('</head>\n<body>\n')
 #output.write('\t<ul>\n\t\t<li><a href="https://harshikosaraju.github.io/">Home</a></li>')
 #output.write('\n\t\t<li><a href=pages/about.html>1 Unit</a></li>')
