@@ -3,9 +3,8 @@
     src: url(Inconsolata/static/Inconsolata-Regular.ttf);
 }
 body{
-    background-color: #809A6F;
+    background-color: #456180;
     font-family: siteFont;
-    color: darkgreen;
 }
 h1{
     margin: 20px;
@@ -24,9 +23,9 @@ aside {
     float:left;
 }
 #course {
-	background: #727739;
+	background: #FFFBF1;
 	border-radius: 25px;
-    padding: 10px;
+    padding: 15px;
     margin: 20px;
-    color: #1C3B29;z
+    color: #1C3B29;
 }
