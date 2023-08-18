@@ -1,6 +1,11 @@
+@font-face {
+    font-family: siteFont;
+    src: url(Inconsolata/static/Inconsolata-Regular.ttf);
+}
 body{
     background-color: #809A6F;
-    font-family: 'Courier New', monospace;
+    font-family: myFirstFont;
+    color: darkgreen;
 }
 h1{
     margin: 20px;
