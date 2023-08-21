@@ -1,6 +1,6 @@
 @font-face {
     font-family: siteFont;
-    src: url(Inconsolata/static/Inconsolata-Regular.ttf);
+    src: url(Space_Mono/SpaceMono-Regular.ttf);
 }
 body{
     background-color: #456180;
@@ -21,6 +21,20 @@ h3{
 aside {
     width:25%;
     float:left;
+}
+#course {
+	background: #FFFBF1;
+	border-radius: 25px;
+    padding: 15px;
+    margin: 20px;
+    color: #1C3B29;
+}
+#experience {
+	background: #FFFBF1;
+	border-radius: 25px;
+    padding: 15px;
+    margin: 20px;
+    color: #1C3B29;
 }
 #course {
 	background: #FFFBF1;
