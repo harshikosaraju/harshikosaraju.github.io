@@ -23,23 +23,16 @@ aside {
     float:left;
 }
 #course {
-	background: #FFFBF1;
+	background: #6585a0;
 	border-radius: 25px;
     padding: 15px;
     margin: 20px;
-    color: #1C3B29;
+    color: #f1e9d4;
 }
 #experience {
-	background: #FFFBF1;
+	background: #8d7e58;
 	border-radius: 25px;
     padding: 15px;
     margin: 20px;
-    color: #1C3B29;
-}
-#course {
-	background: #FFFBF1;
-	border-radius: 25px;
-    padding: 15px;
-    margin: 20px;
-    color: #1C3B29;
+    color: #f1e9d4;
 }
