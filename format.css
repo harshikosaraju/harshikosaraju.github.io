@@ -23,9 +23,9 @@ aside {
     float:left;
 }
 #name{
+    font-size: 45px;
     margin: 20px;
     color: #1C3B29;
-    font-size: 40px;
 }
 #course {
 	background: #6585a0;
