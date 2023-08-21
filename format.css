@@ -1,6 +1,6 @@
 @font-face {
     font-family: siteFont;
-    src: url(Space_Mono/SpaceMono-Regular.ttf);
+    src: url(Inconsolata/static/Inconsolata-SemiBold.ttf);
 }
 body{
     background-color: #f1e9d4;
